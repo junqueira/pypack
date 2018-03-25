@@ -1,0 +1,8 @@
+.cache
+__pycache__
+build/
+dist/
+pypack.egg-info/
+.idea/
+metastore_db/
+*.log
